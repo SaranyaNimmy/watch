@@ -1,0 +1,37 @@
+.navbar{
+  background-color: #8b4513;
+  display: flex;
+  justify-content: space-around;
+
+}
+.navbar a{
+  padding: 1%;
+  color: white;
+  text-decoration: underline;
+}
+.navbar a:hover{
+  background-color: white;
+  color: black;
+  border-radius: 15px;
+  text-decoration: underline;
+
+}
+.watches img{
+  position: fixed;
+  top:26%;
+  left:35%;
+}
+.watches h1,h2,p{
+  background-color: #c5b358;
+  color: black;
+  font-size:1rem;
+}
+.coming img{
+  justify-content: center;
+  align-items: center;
+  top:50%;
+  right:20%;
+}
+.product-item img{
+  width:10%;
+}
